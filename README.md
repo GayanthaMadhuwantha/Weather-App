@@ -30,7 +30,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 7. Build for Andriod platform
 
+```bash
    eas build -p android
+
+```
 
 In the output, you'll find options to open the app in a
 
